@@ -20,7 +20,17 @@ a {
     color-scheme: dark;
   }
   body {
-    color: white;
-    background: black;
+    color: #fff;
+    background: #1E1E1E;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  html {
+    color-scheme: light;
+  }
+  body {
+    color: #1E1E1E;
+    background: #fff;
   }
 }

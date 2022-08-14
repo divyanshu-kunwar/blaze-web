@@ -1,0 +1,9 @@
+@keyframes scale {
+    0% {scale: 0.8;}
+    50% {scale: 1;}
+    100% {scale: 0.8;}
+}
+  
+.loader{
+    animation: scale 3s infinite;
+}
