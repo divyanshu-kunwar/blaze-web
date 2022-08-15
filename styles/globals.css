@@ -34,3 +34,21 @@ a {
     background: #fff;
   }
 }
+
+:root{
+   --primary-color: #855FCE;
+   --primary-color-light : #C5AAF9;
+  --primary-color-dark : #4222A5;
+  --surface-color-dark : #1E1E1E;
+  --surface-color-light : #fff;
+  --card-1-color-dark : #2E2E2E;
+  --card-2-color-dark : #4E4E4E;
+  --card-1-color-light : #EFEFEF;
+  --card-2-color-light : #DFDFDF;
+  --text-color-1-dark : #fff;
+  --text-color-2-dark : #DDD;
+  --text-color-1-light : #222;
+  --text-color-2-light : #333;
+
+}
+

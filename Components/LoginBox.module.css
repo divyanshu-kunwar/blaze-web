@@ -14,3 +14,24 @@
     display: flex;
     font-size: medium;
 }
+.phoneInputContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.OTPButton{
+    display: flex;
+    width: 80%;
+    padding: 8px;
+    margin: 10px 10%;
+    justify-content: center;
+    border-radius: 5px;
+    background-color: var(--primary-color);
+    color: var(--text-color-1-light);
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+.OTPButton:hover{
+    opacity: 1;
+}
