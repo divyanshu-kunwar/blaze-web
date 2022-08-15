@@ -1,0 +1,37 @@
+.authPage{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+    padding: 10px 5%;
+ 
+}
+.authTop{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.authMid{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: max-content;
+}
+
+.authBottom{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.half{
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: 50%;
+
+}
